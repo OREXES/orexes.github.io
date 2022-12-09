@@ -1,11 +1,11 @@
 {
-    "name": "oxide_website",
-    "short_name": "oxide_website",
+    "name": "OXIDE",
+    "short_name": "OXIDE",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "OXIDE - Verifiable Credentials made easy",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
