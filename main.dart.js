@@ -75393,7 +75393,7 @@ return A.dW(s,new A.Gd(B.bD,s),B.u,s,s,s,s,s,s,B.LF,s,s,s,s)},
 $S:451}
 A.Ks.prototype={
 J(a){var s=null,r="https://orexes.de",q=t.F
-return A.mZ(A.a([A.aqJ(A.dW(s,A.mZ(A.a([new A.rc(1,B.pg,new A.ef(B.LK,new A.df(B.Fj,A.a68("assets/foerderung.png",B.n,B.iU,s,!1,s),s),s),s),B.DU,A.fU(A.a([A.fU(A.a([B.bO,A.mZ(A.a([A.aqr("https://instagram.com/orexes_consulting",B.Md),B.DK,A.aqr("https://linkedin.com/company/orexes-consulting",B.Mc),B.DK,A.aqr(r,B.Mf)],q),B.aA,B.B5,B.ae),B.DM,A.u9(B.ba,B.OT,B.U,B.ba,0,0),B.a0R,B.a5y],q),B.aA,B.ad,B.ae)],q),B.aA,B.ad,B.ae),B.DU,new A.rc(1,B.pg,new A.df(B.Fk,A.auW("ox_logo_clean.svg",!0,r),s),s)],q),B.aA,B.XM,B.ae),B.u,B.bD,s,s,s,120,s,s,s,s,s,s),1)],q),B.aA,B.ad,B.ae)}}
+return A.mZ(A.a([A.aqJ(A.dW(s,A.mZ(A.a([new A.rc(1,B.pg,new A.ef(B.LK,new A.df(B.Fj,A.a68("assets/foerderung.png",B.n,B.iU,s,!1,s),s),s),s),B.DU,A.fU(A.a([A.fU(A.a([B.bO,A.mZ(A.a([A.aqr("https://instagram.com/orexes_consulting",B.Md),B.DK,A.aqr("https://linkedin.com/company/orexes-consulting",B.Mc),B.DK,A.aqr(r,B.Mf)],q),B.aA,B.B5,B.ae),B.DM,A.u9(B.ba,B.OT,B.U,B.ba,0,0),B.a0R,B.a5y],q),B.aA,B.ad,B.ae)],q),B.aA,B.ad,B.ae),B.DU,new A.rc(1,B.pg,new A.df(B.Fk,A.auW("assets/ox_logo_clean.svg",!0,r),s),s)],q),B.aA,B.XM,B.ae),B.u,B.bD,s,s,s,120,s,s,s,s,s,s),1)],q),B.aA,B.ad,B.ae)}}
 A.H4.prototype={
 J(a){return A.jv(new A.mC(new A.a04(this),null),B.ez,new A.a05(this),new A.a06(this),null)}}
 A.a05.prototype={
